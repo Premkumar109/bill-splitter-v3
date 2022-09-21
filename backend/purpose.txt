@@ -1,0 +1,2 @@
+This is the backend directory for BillSplitter - API endpoints can be traced via billsplitter.urls
+App wise directory setup is implemented across modules
