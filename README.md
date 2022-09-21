@@ -24,4 +24,4 @@
 
 ### Database Schema
 
-<img src="https://github.com/premkumary109/billsplitter/blob/master/backend/BillSplitter%20ER.png" width="750">
+<img src="[https://github.com/premkumary109/billsplitter/blob/master/backend/BillSplitter%20ER.png](https://github.com/Premkumar109/bill-splitter-v3/blob/main/backend/BillSplitter%20ER.png)" width="750">
