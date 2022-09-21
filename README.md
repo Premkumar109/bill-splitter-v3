@@ -1,6 +1,5 @@
-# bill-splitter-v3
 
-# BillSplitter
+# BillSplitter-v3
 
 ### Functionalities
 ### User
